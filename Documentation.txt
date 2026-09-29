@@ -1,0 +1,28 @@
+What did I learn from reading:
+One thing I learned from the reading is that inheritance allows a subclass
+to reuse attributes and methods from a superclass by using the extends keyword
+This can reduce duplicate code because related classes can share common behavior
+instead of rewriting the same methods. I will be attempting to utilize this in my code 
+
+
+For this assignment, I will be building a small program with the help of ChatGPT that uses classes,
+objects, and inheritance. I will clearly identify the code that ChatGPT objects, and inheritance. 
+I will clearly identify the code that ChatGPT I am building off code that I already created
+in previous projects, but this version will use more methods and concepts.
+
+
+
+Computer.java:
+This stores the class basic information
+
+GamingComputer.Java:
+This extends the class "Computer" and adds extra information like the graphics card that will make it a 
+"GamingComputer" and have another method like running a game
+
+Computer.Demo:
+This will create the objects and store tem in the array list to loop thorugh it and print the computers information.
+
+
+
+
+This program purpose was for me to understand how to use the inheritance and also practice looping through array lists.
